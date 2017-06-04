@@ -1,4 +1,4 @@
-# Mass-Texting
+# Mass Texting
 Using www.twilio.com, use this repository to very easily send massive amounts of texts with no hassle.
 
 ## What You'll Need
