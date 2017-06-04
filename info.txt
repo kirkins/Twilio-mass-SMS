@@ -1,0 +1,4 @@
+[enter your twilio SID here]
+[enter your twilio token here]
+[enter the phone number to use from twilio here]
+[enter the message to send here]
