@@ -7,7 +7,7 @@ Using www.twilio.com, use this repository to very easily send massive amounts of
 * You will need a Twilio account, all ready to go.
 
 ## Tutorial
-1. **Install the repository with Command Prompt/Terminal.** Type in ```git clone https://github.com/InfinityRunner/Mass-Texting.git```.
+1. **Install the repository with Command Prompt/Terminal.** Type in ```git clone https://github.com/InfinityRunner/Mass-Texting.git```. If you do not have git installed, just download the zip and save it in your home folder.
 2. **Find your home folder and open ```info.txt```.**
 3. **Go to Twilio, and grab your API credentials from the home page, or your test credentials.**
 4. **Replace ```[enter your twilio SID here]``` with your Twilio SID credential.**
@@ -16,6 +16,7 @@ Using www.twilio.com, use this repository to very easily send massive amounts of
 7. **Replace ```[enter the message to send here]``` with the message you want to send.**
 8. **Open ```phones.txt```.**
 9. **Remove any existing text, and type in every single number you want to text, separating them with a line break.** Again, make sure there are no spaces or parantheses/brackets in the numbers.
-10. **Go back to Command Prompt/Terminal and type in ```node ``` and then go back to the Mass-Texting folder and drag and drop the ```masstexting.js``` file into Command Prompt/Terminal.**
-11. **Hit enter.**
+10. **Go back to Command Prompt/Terminal and type in ```npm install fs```.**
+11. **Go to Command Prompt/Terminal and type in ```node ``` and then go back to the Mass-Texting folder and drag and drop the ```masstexting.js``` file into Command Prompt/Terminal.**
+12. **Hit enter.**
 You're done!
