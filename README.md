@@ -1,5 +1,7 @@
 *This is a reupload of a GitHub repo I had downloaded. The user who originally uploaded danielohanessian has either deleted account or been deleted, so I am re-posting.*
 
+**IMPORTANT NOTE:** If you want to use this be sure to slow down the speed with which SMS are sent! If you use the default speed your account will quickly be banned. I may update it to go slower by default at a later time.
+
 # Mass Texting
 Using www.twilio.com, use this repository to very easily send massive amounts of texts with no hassle.
 
