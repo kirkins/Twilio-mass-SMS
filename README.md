@@ -1,3 +1,5 @@
+*This is a reupload of a GitHub repo I had downloaded. The user who originally uploaded danielohanessian has either deleted account or been deleted, so I am re-posting.*
+
 # Mass Texting
 Using www.twilio.com, use this repository to very easily send massive amounts of texts with no hassle.
 
